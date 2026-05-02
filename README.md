@@ -1,12 +1,14 @@
 <div align="center">
 
 ```
-███╗   ██╗███████╗████████╗████████╗███████╗██╗   ██╗██████╗  ██╗██╗  ██╗
-████╗  ██║██╔════╝╚══██╔══╝╚══██╔══╝██╔════╝╚██╗ ██╔╝██╔══██╗███║██║  ██║
-██╔██╗ ██║█████╗     ██║      ██║   █████╗   ╚████╔╝ ██████╔╝╚██║███████║
-██║╚██╗██║██╔══╝     ██║      ██║   ██╔══╝    ╚██╔╝  ██╔══██╗ ██║╚════██║
-██║ ╚████║███████╗   ██║      ██║   ███████╗   ██║   ██║  ██║ ██║     ██║
-╚═╝  ╚═══╝╚══════╝   ╚═╝      ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝     ╚═╝
+_   _                  __    ___ 
+           | | | |                /  |  /   |
+ _ __   ___| |_| |_ ___ _   _ _ __`| | / /| |
+| '_ \ / _ \ __| __/ _ \ | | | '__|| |/ /_| |
+| | | |  __/ |_| ||  __/ |_| | |  _| |\___  |
+|_| |_|\___|\___|\___|\___|__, |_|  \___/   |_/
+                            __/ |               
+                           |___/
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila;Building+systems+that+matter+in+the+real+world;IoT+%7C+Machine+Learning+%7C+Full-Stack+Development;Currently+shipping%3A+FloodWatch+%F0%9F%8C%8A)](https://github.com/netteyr14)
@@ -39,7 +41,6 @@ arvin = {
 > *"I build IoT systems and Web systems software that solves real problems."*
 
 ---
-![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
 
 <details>
 <summary><b>▶ &nbsp; Details</b></summary>

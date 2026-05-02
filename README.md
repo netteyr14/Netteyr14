@@ -40,6 +40,10 @@ arvin = {
 
 ---
 
+<details>
+<summary><b>▶ &nbsp; Details</b></summary>
+<br>
+
 ## `> stack --list`
 
 <div align="center">
@@ -73,7 +77,7 @@ arvin = {
 <table>
   <tr>
     <td width="60%">
-      <h4><->FloodWatch <sub><sup><code>under development</code></sup></sub></h4>
+      <h3>🌊 FloodWatch <sub><sup><code>under development</code></sup></sub></h3>
       <p>
         A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>, 
         real-time water level tracking, and a <strong>LightGBM forecasting model</strong> 
@@ -81,7 +85,7 @@ arvin = {
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-backend-blue?style=flat-square">
-        <img src="https://img.shields.io/badge/Flutter-mobile%20%2B%20web%20%2B%20desktop-orange?style=flat-square">
+        <img src="https://img.shields.io/badge/Flutter-mobile%20%2B%20web-orange?style=flat-square">
         <img src="https://img.shields.io/badge/Docker-containerized-informational?style=flat-square">
         <img src="https://img.shields.io/badge/LoRaWAN-IoT-green?style=flat-square">
       </p>
@@ -141,6 +145,8 @@ arvin = {
 ```
 
 <br>
+
+</details>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
 

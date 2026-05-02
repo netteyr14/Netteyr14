@@ -73,7 +73,11 @@ arvin = {
 <table>
   <tr>
     <td width="60%">
-      <h3>🌊 FloodWatch <sub><sup><code>under development</code></sup></sub></h3>
+      <h3>
+  <img src="https://github.com/netteyr14/Netteyr14/blob/master/assets/app_logo.png" 
+       width="28" height="28" style="vertical-align:middle;"/>
+  FloodWatch <sub><sup><code>under development</code></sup></sub>
+</h3>
       <p>
         A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>, 
         real-time water level tracking, and a <strong>LightGBM forecasting model</strong> 

@@ -146,6 +146,7 @@ arvin = {
 <br>
 
 </details>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
 
 </div>

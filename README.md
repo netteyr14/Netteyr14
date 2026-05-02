@@ -36,11 +36,11 @@ arvin = {
 }
 ```
 
-> *"I build software that solves real problems — not just things that look cool in a browser."*
+> *"I build IoT systems and Web systems software ."*
 
 ---
 
-<details>
+<center><details>
 <summary><b>▶ &nbsp; Details</b></summary>
 <br>
 
@@ -146,7 +146,7 @@ arvin = {
 
 <br>
 
-</details>
+</details></center>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
 

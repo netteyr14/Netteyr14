@@ -39,6 +39,8 @@ arvin = {
 > *"I build IoT systems and Web systems software that solves real problems."*
 
 ---
+![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
+
 <details>
 <summary><b>▶ &nbsp; Details</b></summary>
 <br>

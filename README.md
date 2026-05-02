@@ -75,7 +75,7 @@ arvin = {
 
 <table>
   <tr>
-    <td width="80%">
+    <td width="65%">
       <h3>🌊 FloodWatch <sub><sup><code>under development</code></sup></sub></h3>
       <p>
         A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>, 
@@ -93,7 +93,7 @@ arvin = {
         <code>LoRa32 Nodes → LoRa Gateway → Docker API → LightGBM → MySQL → Flutter Apps</code>
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="35%" align="center">
       <a href="https://github.com/netteyr14/FloodWatch">
        <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/github_ss1_new.png" width="100%"/>
       </a>

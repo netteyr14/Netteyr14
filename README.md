@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝     ╚════╝ ╚═╝  ╚═╝   ╚═╝  
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila;Building+systems+that+matter+in+the+real+world;IoT+%7C+Machine+Learning+%7C+Full-Stack+Development;Currently+shipping%3A+FloodWatch+%F0%9F%8C%8A)](https://github.com/netteyr14)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila;Building+systems+that+matter+in+the+real+world;IoT+%7C+Machine+Learning+%7C+Full-Stack+Development;Currently+shipping%3A+FloodWatch+%F0%9F%92%A7)](https://github.com/netteyr14)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=netteyr14&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/netteyr14)
 &nbsp;
@@ -31,7 +31,7 @@ arvin = {
     "school"    : "Colegio de Sta. Teresa de Avila",
     "location"  : "Philippines 🇵🇭  (UTC +08:00)",
     "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],
-    "currently" : "Building FloodWatch 🌊 — a LoRaWAN flood monitoring system",
+    "currently" : "Building FloodWatch 💧 — a LoRaWAN flood monitoring system",
     "contact"   : "753951852456arvin@gmail.com",
 }
 ```
@@ -70,37 +70,28 @@ arvin = {
 
 ## `> projects --featured`
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>
-  <img src="https://github.com/netteyr14/Netteyr14/blob/master/assets/app_logo.png" 
-       width="28" height="28" style="vertical-align:middle;"/>
-  FloodWatch <sub><sup><code>under development</code></sup></sub>
-</h3>
-      <p>
-        A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>, 
-        real-time water level tracking, and a <strong>LightGBM forecasting model</strong> 
-        that predicts flood events and pushes alerts — even in areas with poor connectivity.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-backend-blue?style=flat-square">
-        <img src="https://img.shields.io/badge/Flutter-mobile%20%2B%20web-orange?style=flat-square">
-        <img src="https://img.shields.io/badge/Docker-containerized-informational?style=flat-square">
-        <img src="https://img.shields.io/badge/LoRaWAN-IoT-green?style=flat-square">
-      </p>
-      <p>
-        <b>Architecture:</b><br>
-        <code>LoRa32 Nodes → LoRa Gateway → Docker API → LightGBM → MySQL → Flutter Apps</code>
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <a href="https://github.com/netteyr14/FloodWatch">
-        <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/github_ss1_new.png" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### <img src="https://raw.githubusercontent.com/netteyr14/Netteyr14/master/assets/app_logo.png" width="24" height="24" style="vertical-align:middle;"/> FloodWatch &nbsp; `under development`
+
+> A community-grade IoT flood monitoring system using **LoRaWAN sensor nodes**, real-time water level tracking, and a **LightGBM forecasting model** that predicts flood events and pushes alerts — even in areas with poor connectivity.
+
+![Python](https://img.shields.io/badge/Python-backend-blue?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-mobile%20%2B%20web-orange?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-containerized-informational?style=flat-square)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-IoT-green?style=flat-square)
+
+**Architecture:**
+```
+LoRa32 Nodes → LoRa Gateway → Docker API → LightGBM → MySQL → Flutter Apps
+```
+
+**System Preview:**
+
+<div align="center">
+  <a href="https://github.com/netteyr14/FloodWatch">
+    <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/github_ss1_new.png" width="49%"/>
+    <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/github_ss2.png" width="49%"/>
+  </a>
+</div>
 
 ---
 

@@ -92,7 +92,7 @@ arvin = {
     </td>
     <td width="40%" align="center">
       <a href="https://github.com/netteyr14/FloodWatch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=netteyr14&repo=FloodWatch&theme=github_dark&hide_border=true" />
+        <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/github_ss1_new.png" width="100%"/>
       </a>
     </td>
   </tr>

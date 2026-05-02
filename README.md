@@ -31,6 +31,7 @@ arvin = {
     "school"    : "Colegio de Sta. Teresa de Avila",
     "location"  : "Philippines 🇵🇭  (UTC +08:00)",
     "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],
+    "currently" : "Building FloodWatch — a LoRaWAN flood monitoring system",
     "contact"   : "753951852456arvin@gmail.com",
 }
 ```
@@ -148,10 +149,6 @@ arvin = {
 // → Reach out via email — happy to share for research or collaboration.
 ```
 
-<br>
-
 </details>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
-
 </div>

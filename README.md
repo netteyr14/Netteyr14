@@ -110,7 +110,7 @@ arvin = {
 <img src="https://github-readme-streak-stats.herokuapp.com?user=netteyr14&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
 <img src="https://github-readme-stats-ten-vert-17.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 
-<img src="https://github-readme-stats-ten-vert-17.vercel.app/api?username=netteyr14/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats-ten-vert-17.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%"/>
 
 </div>
 

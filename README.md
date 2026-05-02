@@ -31,7 +31,7 @@ arvin = {
     "school"    : "Colegio de Sta. Teresa de Avila",
     "location"  : "Philippines 🇵🇭  (UTC +08:00)",
     "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],
-    "currently" : "Building FloodWatch 🌊 — a LoRaWAN flood monitoring system",
+    "currently" : "Building FloodWatch — a LoRaWAN flood monitoring system",
     "contact"   : "753951852456arvin@gmail.com",
 }
 ```
@@ -73,7 +73,7 @@ arvin = {
 <table>
   <tr>
     <td width="60%">
-      <p><b>🌊 FloodWatch <sub><sup><code>under development</code></sup></sub></b></p>
+      <h4><->FloodWatch <sub><sup><code>under development</code></sup></sub></h4>
       <p>
         A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>, 
         real-time water level tracking, and a <strong>LightGBM forecasting model</strong> 

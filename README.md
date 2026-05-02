@@ -36,7 +36,7 @@ arvin = {
 }
 ```
 
-> *"I build software that solves real problems — not just things that look cool in a browser."*
+> *"I build IoT systems and Web systems software that solves real problems."*
 
 ---
 <details>
@@ -108,9 +108,9 @@ arvin = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=netteyr14&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-dpckc89xs-753951852456arvin-8166s-projects.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats-dpckc89xs-753951852456arvin-8166s-projects.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%"/>
 
 </div>
 

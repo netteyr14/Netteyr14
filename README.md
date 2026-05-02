@@ -31,7 +31,7 @@ arvin = {
     "school"    : "Colegio de Sta. Teresa de Avila",
     "location"  : "Philippines 🇵🇭  (UTC +08:00)",
     "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],
-    "currently" : "Building FloodWatch 🌊 — a LoRaWAN flood monitoring system",
+    "currently" : "Building FloodWatch — a LoRaWAN flood monitoring system",
     "contact"   : "753951852456arvin@gmail.com",
 }
 ```
@@ -39,6 +39,9 @@ arvin = {
 > *"I build software that solves real problems — not just things that look cool in a browser."*
 
 ---
+<details>
+<summary><b>▶ &nbsp; Details</b></summary>
+<br>
 
 ## `> stack --list`
 
@@ -61,6 +64,7 @@ arvin = {
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9B59B6?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -69,108 +73,33 @@ arvin = {
 
 ## `> projects --featured`
 
-<div align="center">
-
-### 🌊 FloodWatch &nbsp;&nbsp; <sub><sup>`capstone · under active development`</sup></sub>
-
-**Real-Time Flood Monitoring & Water Level Forecasting System**
-
-**Deployed for:** Barangay 178, Camarin, Caloocan City &nbsp;|&nbsp; **Adviser:** Harold Lucero, DIT
-
-</div>
-
-> FloodWatch is a production-grade community flood monitoring system built end-to-end — from custom LoRaWAN radio hardware to a cross-platform Flutter app. It transmits real-time sensor data over low-power RF, runs a trained LightGBM model to forecast water level trends, and delivers live alerts to residents and barangay officials — all containerized and load-tested.
-
-<br/>
-
-**`// End-to-End System Pipeline`**
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                        F L O O D W A T C H                               │
-│                  Real-Time Flood Monitoring System                       │
-└──────────────────────────────────────────────────────────────────────────┘
-
-  [ FIELD LAYER ]              [ GATEWAY LAYER ]         [ SERVER LAYER ]
-
-  ┌─────────────┐  LoRa RF    ┌──────────────┐  LAN    ┌──────────────────────────────────┐
-  │ LoRa32 Node │ ──────────► │ LoRa32 SCPf  │ ──────► │        Docker Compose            │
-  │ (Sensor     │ Sub-GHz     │ (Single-Chan  │         │  ┌─────────────────────────────┐ │
-  │  Tower)     │             │  Pkt Forwarder│         │  │   NGINX  (Rate Limiter)     │ │
-  │             │             │               │         │  │   per-location enforcement  │ │
-  │ · Ultrasonic│             │ · Bridges RF  │         │  └──────────────┬──────────────┘ │
-  │   water lvl │             │   to IP stack │         │                 │                │
-  │ · Transmits │             │ · Forwards    │         │  ┌──────────────▼──────────────┐ │
-  │   over LoRa │             │   LoRa pkts   │         │  │     Flask API  (Python)     │ │
-  └─────────────┘             └───────────────┘         │  │  ┌────────┬────────┬──────┐ │ │
-                                                         │  │  │ Admin  │ Tower  │  ML  │ │ │
-                                                         │  │  │ Routes │ Routes │Routes│ │ │
-                                                         │  │  └───┬────┴───┬────┴───┬──┘ │ │
-                                                         │  └──────┼────────┼────────┼────┘ │
-                                                         │         │        │        │       │
-                                                         │  ┌──────▼──┐   ┌─▼────────▼────┐ │
-                                                         │  │  MySQL  │   │  LightGBM ML  │ │
-                                                         │  │  (DB)   │   │ Forecast Model│ │
-                                                         │  └─────────┘   └───────────────┘ │
-                                                         └──────────────────┬───────────────┘
-                                                                            │
-                                                               ┌────────────▼───────────┐
-                                                               │    Flutter Frontend     │
-                                                               │  📱 Mobile  (Android)  │
-                                                               │  🖥️  Desktop (Windows) │
-                                                               │  🌐 Web    (Browser)   │
-                                                               └────────────────────────┘
-```
-
-<br/>
-
-**`// Engineering highlights`**
-
 <table>
   <tr>
-    <td>📡 &nbsp;<b>LoRaWAN WSN</b></td>
-    <td>Two LoRa32 boards — one as a field sensor tower transmitting raw water level readings over Sub-GHz LoRa RF, the other acting as a single-channel packet forwarder that bridges the radio link to the LAN stack. Zero cloud dependency on the RF hop.</td>
-  </tr>
-  <tr>
-    <td>🧠 &nbsp;<b>LightGBM Forecasting</b></td>
-    <td>Trained ML model predicting water level trends from historical sensor data, isolated behind its own <code>/ml</code> API route — fully decoupled from sensor ingestion and admin logic to keep each service independently scalable.</td>
-  </tr>
-  <tr>
-    <td>🐳 &nbsp;<b>Dockerized & Resource-Scoped</b></td>
-    <td>Fully containerized with Docker Compose. Every service (API, DB, NGINX) carries its own CPU and memory ceiling — no single container can starve the system under surge load.</td>
-  </tr>
-  <tr>
-    <td>🛡️ &nbsp;<b>Per-Location Rate Limiting</b></td>
-    <td>NGINX enforces rate limits scoped per source location — protecting the API against both accidental burst traffic and deliberate abuse without standing up a full WAF.</td>
-  </tr>
-  <tr>
-    <td>📊 &nbsp;<b>Dual Load Testing</b></td>
-    <td><b>k6</b> for distributed multi-IP concurrent user simulation. <b>Locust</b> for single abusive-IP stress testing. Both used to validate backend resilience against real-world community traffic scenarios and identify throughput ceilings per container.</td>
-  </tr>
-  <tr>
-    <td>📱 &nbsp;<b>Cross-Platform Flutter</b></td>
-    <td>One codebase targeting Android mobile, Windows desktop, and browser — designed for both smartphones of barangay residents and fixed command-center dashboards used by officials during flood events.</td>
+    <td width="80%">
+      <h3>🌊 FloodWatch <sub><sup><code>under development</code></sup></sub></h3>
+      <p>
+        A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>, 
+        real-time water level tracking, and a <strong>LightGBM forecasting model</strong> 
+        that predicts flood events and pushes alerts — even in areas with poor connectivity.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-backend-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Flutter-mobile%20%2B%20web-orange?style=flat-square">
+        <img src="https://img.shields.io/badge/Docker-containerized-informational?style=flat-square">
+        <img src="https://img.shields.io/badge/LoRaWAN-IoT-green?style=flat-square">
+      </p>
+      <p>
+        <b>Architecture:</b><br>
+        <code>LoRa32 Nodes → LoRa Gateway → Docker API → LightGBM → MySQL → Flutter Apps</code>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <a href="https://github.com/netteyr14/FloodWatch">
+       <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/github_ss1_new.png" width="100%"/>
+      </a>
+    </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-backend-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-cross--platform-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-containerized-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-forecasting-9B59B6?style=flat-square)
-![NGINX](https://img.shields.io/badge/NGINX-rate--limited-009639?style=flat-square&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-timeseries--data-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-Sub--GHz%20WSN-2ecc71?style=flat-square)
-![k6](https://img.shields.io/badge/k6-load--tested-7D64FF?style=flat-square&logo=k6&logoColor=white)
-
-<a href="https://github.com/netteyr14/FloodWatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=netteyr14&repo=FloodWatch&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
@@ -178,14 +107,10 @@ arvin = {
 
 <div align="center">
 
-> ⚠️ **Note:** FloodWatch repos are kept **private** (pending commercialization with the client barangay). Stats reflect public activity only.
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=netteyr14&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%"/>
 
 </div>
 
@@ -211,15 +136,16 @@ arvin = {
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-netteyr14-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netteyr14)
 
-<br/>
+<br>
 
 ```
 // Need access to private repos (backend, mobile, admin dashboard)?
 // → Reach out via email — happy to share for research or collaboration.
 ```
 
-<br/>
+<br>
 
+</details>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
 
 </div>

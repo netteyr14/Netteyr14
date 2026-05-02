@@ -142,13 +142,12 @@ arvin = {
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-netteyr14-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netteyr14)
 
-<br>
 
 ```
 // Need access to private repos (backend, mobile, admin dashboard)?
 // → Reach out via email — happy to share for research or collaboration.
 ```
-
 </details>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
 </div>

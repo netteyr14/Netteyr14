@@ -1,128 +1,225 @@
 <div align="center">
 
-# `Hello, I'm Arvin Jay O. Isorena` 👋
+```
+ █████╗ ██████╗ ██╗   ██╗██╗███╗   ██╗         ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██║   ██║██║████╗  ██║         ██║██╔══██╗╚██╗ ██╔╝
+███████║██████╔╝██║   ██║██║██╔██╗ ██║         ██║███████║ ╚████╔╝ 
+██╔══██║██╔══██╗╚██╗ ██╔╝██║██║╚██╗██║    ██   ██║██╔══██║  ╚██╔╝  
+██║  ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║    ╚█████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝     ╚════╝ ╚═╝  ╚═╝   ╚═╝  
+```
 
-`「 Bachelor of Science in Information Technology Student @ Colegio de Sta. Teresa de Avila 」`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila;Building+systems+that+matter+in+the+real+world;IoT+%7C+Machine+Learning+%7C+Full-Stack+Development;Currently+shipping%3A+FloodWatch+%F0%9F%8C%8A)](https://github.com/netteyr14)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=netteyr14&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/netteyr14)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/netteyr14?style=flat-square&color=58A6FF&label=followers)](https://github.com/netteyr14?tab=followers)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/badge/dynamic/json?style=flat-square&color=58A6FF&label=total%20stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/netteyr14)](https://github.com/netteyr14)
+
+</div>
+
+---
+
+## `> whoami`
+
+```python
+arvin = {
+    "name"      : "Isorena, Arvin Jay",
+    "alias"     : ["netteyr14", "sheeshkebab"],
+    "degree"    : "BS Information Technology — 3rd Year",
+    "school"    : "Colegio de Sta. Teresa de Avila",
+    "location"  : "Philippines 🇵🇭  (UTC +08:00)",
+    "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],
+    "currently" : "Building FloodWatch 🌊 — a LoRaWAN flood monitoring system",
+    "contact"   : "753951852456arvin@gmail.com",
+}
+```
+
+> *"I build software that solves real problems — not just things that look cool in a browser."*
+
+---
+
+## `> stack --list`
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9B59B6?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## `> projects --featured`
+
+<div align="center">
+
+### 🌊 FloodWatch &nbsp;&nbsp; <sub><sup>`capstone · under active development`</sup></sub>
+
+**Real-Time Flood Monitoring & Water Level Forecasting System**
+
+**Deployed for:** Barangay 178, Camarin, Caloocan City &nbsp;|&nbsp; **Adviser:** Harold Lucero, DIT
+
+</div>
+
+> FloodWatch is a production-grade community flood monitoring system built end-to-end — from custom LoRaWAN radio hardware to a cross-platform Flutter app. It transmits real-time sensor data over low-power RF, runs a trained LightGBM model to forecast water level trends, and delivers live alerts to residents and barangay officials — all containerized and load-tested.
 
 <br/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=netteyr14&label=Profile%20Views&color=0d1117&style=flat)](https://github.com/netteyr14)
-[![GitHub followers](https://img.shields.io/github/followers/netteyr14?label=Followers&style=flat&color=0d1117&logo=github)](https://github.com/netteyr14?tab=followers)
-[![Total Stars](https://img.shields.io/badge/dynamic/json?label=Total%20Stars&color=0d1117&style=flat&style=for-the-badge&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fnetteyr14)](https://github.com/netteyr14)
+**`// End-to-End System Pipeline`**
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                        F L O O D W A T C H                               │
+│                  Real-Time Flood Monitoring System                       │
+└──────────────────────────────────────────────────────────────────────────┘
+
+  [ FIELD LAYER ]              [ GATEWAY LAYER ]         [ SERVER LAYER ]
+
+  ┌─────────────┐  LoRa RF    ┌──────────────┐  LAN    ┌──────────────────────────────────┐
+  │ LoRa32 Node │ ──────────► │ LoRa32 SCPf  │ ──────► │        Docker Compose            │
+  │ (Sensor     │ Sub-GHz     │ (Single-Chan  │         │  ┌─────────────────────────────┐ │
+  │  Tower)     │             │  Pkt Forwarder│         │  │   NGINX  (Rate Limiter)     │ │
+  │             │             │               │         │  │   per-location enforcement  │ │
+  │ · Ultrasonic│             │ · Bridges RF  │         │  └──────────────┬──────────────┘ │
+  │   water lvl │             │   to IP stack │         │                 │                │
+  │ · Transmits │             │ · Forwards    │         │  ┌──────────────▼──────────────┐ │
+  │   over LoRa │             │   LoRa pkts   │         │  │     Flask API  (Python)     │ │
+  └─────────────┘             └───────────────┘         │  │  ┌────────┬────────┬──────┐ │ │
+                                                         │  │  │ Admin  │ Tower  │  ML  │ │ │
+                                                         │  │  │ Routes │ Routes │Routes│ │ │
+                                                         │  │  └───┬────┴───┬────┴───┬──┘ │ │
+                                                         │  └──────┼────────┼────────┼────┘ │
+                                                         │         │        │        │       │
+                                                         │  ┌──────▼──┐   ┌─▼────────▼────┐ │
+                                                         │  │  MySQL  │   │  LightGBM ML  │ │
+                                                         │  │  (DB)   │   │ Forecast Model│ │
+                                                         │  └─────────┘   └───────────────┘ │
+                                                         └──────────────────┬───────────────┘
+                                                                            │
+                                                               ┌────────────▼───────────┐
+                                                               │    Flutter Frontend     │
+                                                               │  📱 Mobile  (Android)  │
+                                                               │  🖥️  Desktop (Windows) │
+                                                               │  🌐 Web    (Browser)   │
+                                                               └────────────────────────┘
+```
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=500&lines=I'm+Arvin+Jay+Isorena%2C+aka+Sheesh_Kebab;Full-Stack+%26+Embedded+Systems+Developer;IoT+%7C+ML+%7C+DevOps+%7C+Cybersecurity;Colegio+de+Sta.+Teresa+de+Avila+%E2%80%94+BSIT+3rd+Year;Building+FloodWatch+%F0%9F%8C%8A)](https://github.com/netteyr14)
+**`// Engineering highlights`**
+
+<table>
+  <tr>
+    <td>📡 &nbsp;<b>LoRaWAN WSN</b></td>
+    <td>Two LoRa32 boards — one as a field sensor tower transmitting raw water level readings over Sub-GHz LoRa RF, the other acting as a single-channel packet forwarder that bridges the radio link to the LAN stack. Zero cloud dependency on the RF hop.</td>
+  </tr>
+  <tr>
+    <td>🧠 &nbsp;<b>LightGBM Forecasting</b></td>
+    <td>Trained ML model predicting water level trends from historical sensor data, isolated behind its own <code>/ml</code> API route — fully decoupled from sensor ingestion and admin logic to keep each service independently scalable.</td>
+  </tr>
+  <tr>
+    <td>🐳 &nbsp;<b>Dockerized & Resource-Scoped</b></td>
+    <td>Fully containerized with Docker Compose. Every service (API, DB, NGINX) carries its own CPU and memory ceiling — no single container can starve the system under surge load.</td>
+  </tr>
+  <tr>
+    <td>🛡️ &nbsp;<b>Per-Location Rate Limiting</b></td>
+    <td>NGINX enforces rate limits scoped per source location — protecting the API against both accidental burst traffic and deliberate abuse without standing up a full WAF.</td>
+  </tr>
+  <tr>
+    <td>📊 &nbsp;<b>Dual Load Testing</b></td>
+    <td><b>k6</b> for distributed multi-IP concurrent user simulation. <b>Locust</b> for single abusive-IP stress testing. Both used to validate backend resilience against real-world community traffic scenarios and identify throughput ceilings per container.</td>
+  </tr>
+  <tr>
+    <td>📱 &nbsp;<b>Cross-Platform Flutter</b></td>
+    <td>One codebase targeting Android mobile, Windows desktop, and browser — designed for both smartphones of barangay residents and fixed command-center dashboards used by officials during flood events.</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-backend-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-cross--platform-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-containerized-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-forecasting-9B59B6?style=flat-square)
+![NGINX](https://img.shields.io/badge/NGINX-rate--limited-009639?style=flat-square&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-timeseries--data-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-Sub--GHz%20WSN-2ecc71?style=flat-square)
+![k6](https://img.shields.io/badge/k6-load--tested-7D64FF?style=flat-square&logo=k6&logoColor=white)
+
+<a href="https://github.com/netteyr14/FloodWatch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=netteyr14&repo=FloodWatch&theme=github_dark&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## ☵ About Me
-
-I'm a 3rd-year BSIT student at **Colegio de Sta. Teresa de Avila**, Caloocan City, Philippines — passionate about building systems that matter. My current flagship project is **FloodWatch**, a real-time flood monitoring and water level forecasting system deployed for Barangay 178, Camarin, Caloocan City.
-
-My work spans full-stack development, embedded IoT engineering, ML integration, DevOps/containerization, and load testing. Outside of capstone work, I explore **cybersecurity** and maintain a Kali Linux lab environment.
-
-- 🎓 **School:** Colegio de Sta. Teresa de Avila — B.S. Information Technology
-- 🌊 **Flagship Project:** [FloodWatch](https://github.com/netteyr14/FloodWatch) — LoRaWAN WSN + LightGBM + Dockerized Backend + Flutter Frontend
-- 🔐 **Interest:** Cybersecurity, Penetration Testing (Kali Linux)
-- 🇵🇭 **Location:** Caloocan City, Philippines (UTC+08:00)
-- 📌 **Alias:** `Sheesh_Kebab`
-
----
-
-## 🌊 Flagship Project — FloodWatch
-
-> **Real-Time Flood Monitoring System with Water Level Forecasting**
-> Built for Barangay 178, Camarin, Caloocan City
-
-| Layer | Stack |
-|---|---|
-| **Hardware / WSN** | LoRa32 (x2), LoRaWAN, Single-Channel Packet Forwarder |
-| **Backend** | Python, Flask, Docker, Docker Compose, NGINX |
-| **ML Model** | LightGBM (water level forecasting) |
-| **Database** | MySQL |
-| **Frontend** | Flutter (Mobile, Web, Desktop) |
-| **Security** | Per-location NGINX rate limiting, resource allocation per container |
-| **Load Testing** | k6 (multi-IP simulation), Locust (stress testing) |
-
----
-
-## 🛠️ Languages & Technologies
-
-### Languages
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/netteyr14?tab=repositories&language=python)
-[![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&logoColor=0175C2)](https://github.com/netteyr14?tab=repositories&language=dart)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/netteyr14?tab=repositories&language=javascript)
-[![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B&logoColor=blue)](https://github.com/netteyr14?tab=repositories&language=c%2B%2B)
-[![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&logoColor=purple)](https://github.com/netteyr14?tab=repositories&language=c%23)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=1572B6)](https://github.com/netteyr14?tab=repositories&language=java)
-
-### Frameworks & Runtime
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)](https://github.com/netteyr14)
-[![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=02569B)](https://github.com/netteyr14)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/netteyr14)
-
-### DevOps & Infrastructure
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/netteyr14)
-[![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=nginx&logoColor=009639)](https://github.com/netteyr14)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=4479A1)](https://github.com/netteyr14)
-[![k6](https://img.shields.io/badge/-k6-black?style=flat&logo=k6&logoColor=7D64FF)](https://github.com/netteyr14)
-
-### IoT & Embedded
-[![LoRaWAN](https://img.shields.io/badge/-LoRaWAN-black?style=flat&logo=semtech)](https://github.com/netteyr14)
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino&logoColor=00979D)](https://github.com/netteyr14)
-
-### ML & Data
-[![LightGBM](https://img.shields.io/badge/-LightGBM-black?style=flat&logo=lightgbm)](https://github.com/netteyr14)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat&logo=scikit-learn)](https://github.com/netteyr14)
-
-### Security & Tools
-[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kalilinux&logoColor=557C94)](https://github.com/netteyr14)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/netteyr14)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/netteyr14)
-
----
-
-## 📊 GitHub Stats
+## `> stats --verbose`
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=netteyr14&theme=highcontrast&hide_border=true&ring=39FF20&fire=757575&currStreakLabel=FFFFFF&bg_color=0D1117)](https://github.com/netteyr14)
+> ⚠️ **Note:** FloodWatch repos are kept **private** (pending commercialization with the client barangay). Stats reflect public activity only.
 
-[![netteyr14's GitHub Stats](https://github-readme-stats.vercel.app/api?username=netteyr14&theme=transparent&title_color=FFFFFF&hide_border=true&layout=compact&bg_color=0D1117&text_color=FFFFFF)](https://github.com/netteyr14)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=netteyr14&theme=transparent&title_color=FFFFFF&hide_border=true&layout=compact&bg_color=0D1117&text_color=FFFFFF)](https://github.com/netteyr14)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=netteyr14&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" width="45%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `> activity --graph`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=netteyr14&bg_color=0d1117&color=ffffff&line=39FF20&point=f9fafa&area=true&custom_title=netteyr14's+Contribution+Graph&hide_border=true)](https://github.com/netteyr14)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=netteyr14&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&custom_title=Arvin's%20Contribution%20Activity)](https://github.com/netteyr14)
 
 </div>
 
 ---
 
-## 📬 Connect
+## `> contact --reach-out`
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook&logoColor=1877F2)](https://www.facebook.com/m.Arvin.Jay.isorena.27)
-[![GitHub](https://img.shields.io/badge/-GitHub-375eab?style=flat-square&logo=github&logoColor=white&color=black)](https://github.com/netteyr14)
+[![Facebook](https://img.shields.io/badge/Facebook-Arvin%20Jay%20Isorena-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.Arvin.Jay.isorena.27)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:753951852456arvin@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-netteyr14-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netteyr14)
 
-</div>
+<br/>
 
----
+```
+// Need access to private repos (backend, mobile, admin dashboard)?
+// → Reach out via email — happy to share for research or collaboration.
+```
 
-<div align="center">
+<br/>
 
-`════ ⋆★⋆ ════`
-
-*From netteyr14 — Sheesh_Kebab*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
 
 </div>

@@ -29,7 +29,7 @@ arvin = {
     "alias"     : ["netteyr14", "sheeshkebab"],
     "degree"    : "BS Information Technology — 3rd Year",
     "school"    : "Colegio de Sta. Teresa de Avila",
-    "location"  : "Philippines 🇵🇭  (UTC +08:00)",
+    "location"  : "Philippines (UTC +08:00)",
     "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],
     "currently" : "Building FloodWatch — a LoRaWAN flood monitoring system",
     "contact"   : "753951852456arvin@gmail.com",

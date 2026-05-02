@@ -14,8 +14,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=netteyr14&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/netteyr14)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/netteyr14?style=flat-square&color=58A6FF&label=followers)](https://github.com/netteyr14?tab=followers)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/badge/dynamic/json?style=flat-square&color=58A6FF&label=total%20stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/netteyr14)](https://github.com/netteyr14)
 
 </div>
 

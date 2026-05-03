@@ -34,7 +34,7 @@ arvin = {
 }
 ```
 
-> *"I build IoT and web systems end-to-end, from sensors to interfaces."*
+> *"I build IoT and web systems, all the way from the sensor to the UI."*
 
 ---
 <details>

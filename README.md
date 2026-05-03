@@ -22,7 +22,7 @@
 ## `> whoami`
 
 ```python
-ambin = {
+arvin = {
     "name"      : "Isorena, Arvin Jay",
     "alias"     : ["netteyr14", "sheeshkebab"],
     "degree"    : "BS Information Technology — 3rd Year",

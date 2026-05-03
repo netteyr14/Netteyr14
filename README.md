@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝╚══════╝   ╚═╝      ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila;Building+systems+that+matter+in+the+real+world;IoT+%7C+Machine+Learning+%7C+Full-Stack+Development;Currently+shipping%3A+FloodWatch)](https://github.com/netteyr14)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila;Building+end-to-end+systems+from+hardware+to+cloud;IoT+%7C+Machine+Learning+%7C+Full-Stack+Development;Currently+shipping%3A+FloodWatch)](https://github.com/netteyr14)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=netteyr14&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/netteyr14)
 &nbsp;
@@ -34,7 +34,7 @@ arvin = {
 }
 ```
 
-> *"I build IoT systems and Web systems software that solves real problems."*
+> *"I build IoT and web systems end-to-end, from sensors to interfaces."*
 
 ---
 <details>

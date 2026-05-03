@@ -38,7 +38,7 @@ arvin = {
 
 ---
 <details>
-<summary><b>▶ &nbsp; Details</b></summary>
+<summary><b>Details</b></summary>
 <br>
 
 ## `> stack --list`

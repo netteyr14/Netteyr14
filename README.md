@@ -81,7 +81,7 @@ arvin = {
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-backend-blue?style=flat-square">
-        <img src="https://img.shields.io/badge/Flutter-mobile%20%2B%20web-orange?style=flat-square">
+        <img src="https://img.shields.io/badge/Flutter-mobile%20%2B%20web%20%2B%20desktop-orange?style=flat-square">
         <img src="https://img.shields.io/badge/Docker-containerized-informational?style=flat-square">
         <img src="https://img.shields.io/badge/LoRaWAN-IoT-green?style=flat-square">
       </p>

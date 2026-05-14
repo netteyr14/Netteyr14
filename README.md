@@ -140,7 +140,7 @@ arvin = {
 
 [![Facebook](https://img.shields.io/badge/Facebook-Arvin%20Jay%20Isorena-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.Arvin.Jay.isorena.27)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:753951852456arvin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-753951852456arvin@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:753951852456arvin@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-netteyr14-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netteyr14)
 

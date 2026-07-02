@@ -25,7 +25,7 @@
 arvin = {
     "name"      : "Isorena, Arvin Jay",
     "alias"     : ["netteyr14", "sheeshkebab"],
-    "degree"    : "BS Information Technology — 3rd Year",
+    "degree"    : "BS Information Technology — 4th Year",
     "school"    : "Colegio de Sta. Teresa de Avila",
     "location"  : "Philippines (UTC +08:00)",
     "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],

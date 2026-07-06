@@ -106,7 +106,7 @@ arvin = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=netteyr14&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
+        <img src="https://streak-stats.demolab.com?user=netteyr14&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
       </td>
     </tr>
   </table>

@@ -92,7 +92,7 @@ arvin = {
     </td>
     <td width="37%" align="center">
       <a href="https://github.com/netteyr14/FloodWatch">
-       <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/github_ss1_new.png" width="100%"/>
+       <img src="https://raw.githubusercontent.com/netteyr14/FloodWatch/main/assets/new_admin_monitoring_dashboard.png" width="100%"/>
       </a>
     </td>
   </tr>

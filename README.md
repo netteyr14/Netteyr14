@@ -47,7 +47,7 @@ arvin = {
 
 **Design/Prototyping**
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" height="28" alt="Canva"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila)](https://github.com/netteyr14)
 ![Figma](https://img.shields.io/badge/Figma-%2300599C.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Languages**

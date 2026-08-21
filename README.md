@@ -47,7 +47,7 @@ arvin = {
 
 **Design/Prototyping**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila)](https://github.com/netteyr14)
+[![Canva](https://img.shields.io/badge/Canva-%2300D4FF.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+Q2FudmE8L3RpdGxlPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yMCAyMVY1YTQgNCA1MjUgMDAgMDAtNCAwSFhjMjUgMDF8NC0uNDEzLjI1LTN8Q2FudmEiLz48L3N2Zz4=&logoColor=white)](https://www.canva.com)
 ![Figma](https://img.shields.io/badge/Figma-%2300599C.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Languages**

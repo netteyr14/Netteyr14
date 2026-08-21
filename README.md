@@ -45,6 +45,11 @@ arvin = {
 
 <div align="center">
 
+**Design/Prototyping**
+
+![Canva](https://img.shields.io/badge/Canva-%2314354C.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%2300599C.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)

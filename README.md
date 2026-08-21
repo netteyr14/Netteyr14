@@ -47,7 +47,7 @@ arvin = {
 
 **Design/Prototyping**
 
-![Canva](https://img.shields.io/badge/Canva-%2300D4FF.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300D4FF?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%2300599C.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Languages**

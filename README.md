@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███╗   ██╗███████╗████████╗████████╗███████╗██╗   ██╗██████╗  ██╗██╗  ██╗
-████╗  ██║██╔════╝╚══██╔══╝╚══██╔══╝██╔════╝╚██╗ ██╔╝██╔══██╗███║██║  ██║
-██╔██╗ ██║█████╗     ██║      ██║   █████╗   ╚████╔╝ ██████╔╝╚██║███████║
-██║╚██╗██║██╔══╝     ██║      ██║   ██╔══╝    ╚██╔╝  ██╔══██╗ ██║╚════██║
-██║ ╚████║███████╗   ██║      ██║   ███████╗   ██║   ██║  ██║ ██║     ██║
-╚═╝  ╚═══╝╚══════╝   ╚═╝      ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝     ╚═╝
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+Colegio+de+Sta.+Teresa+de+Avila;Building+end-to-end+systems+from+hardware+to+cloud;IoT+%7C+Machine+Learning+%7C+Full-Stack+Development;Currently+shipping%3A+FloodWatch)](https://github.com/netteyr14)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=netteyr14&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/netteyr14)
@@ -17,28 +8,22 @@
 
 </div>
 
----
-
-## `> whoami`
-
-```python
-arvin = {
-    "name"      : "Isorena, Arvin Jay",
-    "alias"     : ["netteyr14", "sheeshkebab"],
-    "degree"    : "BS Information Technology — 4th Year",
-    "school"    : "Colegio de Sta. Teresa de Avila",
-    "location"  : "Philippines (UTC +08:00)",
-    "focus"     : ["IoT Systems", "ML Forecasting", "Full-Stack Dev"],
-    "currently" : "Building FloodWatch — a LoRaWAN flood monitoring system",
-    "contact"   : "753951852456arvin@gmail.com",
-}
-```
+<div align="center">
+  <a href="https://github.com/netteyr14">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+      <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+      <img alt="Arvin Jay Isorena (netteyr14) | BSIT 4th year | IoT, ML forecasting, full-stack | currently building FloodWatch" src="dark_mode.svg" width="100%">
+    </picture>
+  </a>
+</div>
 
 > *"I build IoT and web systems, all the way from the sensor to the UI."*
 
 ---
+
 <details>
-<summary><b>Details</b></summary>
+<summary><b>More details</b></summary>
 <br>
 
 ## `> stack --list`
@@ -67,6 +52,7 @@ arvin = {
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9B59B6?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Azure VM](https://img.shields.io/badge/Azure_VM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -80,9 +66,9 @@ arvin = {
     <td width="62%">
       <h3>➽ FloodWatch <sub><sup><code>under development</code></sup></sub></h3>
       <p>
-        A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>, 
-        real-time water level tracking, and a <strong>LightGBM forecasting model</strong> 
-        that predicts flood events and pushes alerts — even in areas with poor connectivity.
+        A community-grade IoT flood monitoring system using <strong>LoRaWAN sensor nodes</strong>,
+        real-time water level tracking, and a <strong>LightGBM forecasting model</strong>
+        that predicts flood events and pushes alerts, even in areas with poor connectivity.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-backend-blue?style=flat-square">
@@ -116,13 +102,13 @@ arvin = {
     </tr>
   </table>
   <table>
-      <tr>
-        <td>
-            <img src="https://github-readme-stats-ten-vert-17.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats-ten-vert-17.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%"/>
-        </td>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-ten-vert-17.vercel.app/api?username=netteyr14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-ten-vert-17.vercel.app/api/top-langs/?username=netteyr14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%"/>
+      </td>
     </tr>
   </table>
 </div>
@@ -137,9 +123,9 @@ arvin = {
 
 </div>
 
----
+</details>
 
-## `> contact --reach-out`
+---
 
 <div align="center">
 
@@ -149,12 +135,11 @@ arvin = {
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-netteyr14-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netteyr14)
 
-
 ```
 // Need access to private repos (backend, mobile, admin dashboard)?
-// → Reach out via email — happy to share for research or collaboration.
+// → Reach out via email. Happy to share for research or collaboration.
 ```
-</details>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer)
+
 </div>

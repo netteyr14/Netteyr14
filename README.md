@@ -119,7 +119,9 @@
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=netteyr14&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&custom_title=Arvin's%20Contribution%20Activity)](https://github.com/netteyr14)
+<!-- metrics:start -->
+[![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=netteyr14&theme=github_dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&chart_color=58A6FF&border_color=30363d)](https://github.com/netteyr14)
+<!-- metrics:end -->
 
 </div>
 

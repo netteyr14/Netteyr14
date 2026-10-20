@@ -43,7 +43,7 @@ INFO = [
     ("section", "Projects"),
     ("kv", "Currently.Shipping", "FloodWatch (under development)"),
     ("kv", "Pipeline.Edge", "LoRa32 Nodes → LoRa Gateway"),
-    ("kv", "Pipeline.Cloud", "Docker API → LightGBM → MySQL"),
+    ("kv", "Pipeline.Cloud", "Azure VM → Docker (containers) → Cloudflare"),
     ("kv", "Pipeline.Client", "Flutter: mobile, web, desktop"),
     ("kv", "Repo", "github.com/netteyr14/FloodWatch"),
     ("blank",),

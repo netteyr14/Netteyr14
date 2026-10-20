@@ -110,8 +110,8 @@
 <text x="605.6" y="409.0" fill="#6e7681" textLength="193.2" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >. . . . . . . . . . . .</text>
 <text x="807.2" y="409.0" fill="#79c0ff" textLength="226.8" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >LoRa32 Nodes → LoRa Gateway</text>
 <text x="479.6" y="427.0" fill="#ffa657" textLength="126.0" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >Pipeline.Cloud:</text>
-<text x="614.0" y="427.0" fill="#6e7681" textLength="168.0" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >. . . . . . . . . . </text>
-<text x="790.4" y="427.0" fill="#79c0ff" textLength="243.6" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >Docker API → LightGBM → MySQL</text>
+<text x="614.0" y="427.0" fill="#6e7681" textLength="50.4" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >. . . </text>
+<text x="672.8" y="427.0" fill="#79c0ff" textLength="361.2" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >Azure VM → Docker (containers) → Cloudflare</text>
 <text x="479.6" y="445.0" fill="#ffa657" textLength="134.4" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >Pipeline.Client:</text>
 <text x="622.4" y="445.0" fill="#6e7681" textLength="159.6" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >. . . . . . . . . .</text>
 <text x="790.4" y="445.0" fill="#79c0ff" textLength="243.6" lengthAdjust="spacing" xml:space="preserve" style="white-space:pre" >Flutter: mobile, web, desktop</text>
